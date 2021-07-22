@@ -49,3 +49,11 @@ PUT example:
 {"_id":{"timestamp":1626918456,"date":"2021-07-22T01:47:36.000+00:00"},"id":"12345","name":"towel","current_price":{"value":20.0,"currency_code":"USD"}}
 ```
 
+3. In order to stop
+
+Try one of:
+
+Ctrl - C on the command prompt running the web service
+
+running gradle -stop from another command prompt
+
